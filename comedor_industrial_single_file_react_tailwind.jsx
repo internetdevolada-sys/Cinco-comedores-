@@ -17,7 +17,7 @@ const NAV = [
 const SERVICES = [
   {
     icon: <ChefHat className="w-6 h-6" aria-hidden />,
-    title: "Comedor industrial",
+    title: "Cinco comedoresl",
     text: "Operación integral en sitio con menús balanceados, rutas de servicio y control de porciones.",
   },
   {
@@ -28,7 +28,7 @@ const SERVICES = [
   {
     icon: <ShieldCheck className="w-6 h-6" aria-hidden />,
     title: "Inocuidad y calidad",
-    text: "Procesos basados en BPM, APPCC/HACCP y trazabilidad con checklists digitales.",
+    text: "Procesos basados en Nom251 y distintivo H.",
   },
   {
     icon: <Leaf className="w-6 h-6" aria-hidden />,
